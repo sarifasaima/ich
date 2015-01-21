@@ -2,12 +2,188 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19cdb650-adcc-41a0-b2f1-73401f8f9ffd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ich.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assignment_website/about me.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assignment_website/contact.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assignment_website/dashboard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assignment_website/home.ep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assignment_website/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assignment_website/login.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assignment_website/photogallary.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/about.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/add_user.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/css/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/css/form-elements.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/css/magnific-popup.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/css/media-queries.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/flexslider/flexslider.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/flexslider/flexslider.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/flexslider/fonts/flexslider-icon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/flexslider/fonts/flexslider-icon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/flexslider/fonts/flexslider-icon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/flexslider/fonts/flexslider-icon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/flexslider/images/bg_play_pause.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/flexslider/jquery.flexslider-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/flexslider/jquery.flexslider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/less/spinning.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/scss/_spinning.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/ico/apple-touch-icon-114-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/ico/apple-touch-icon-144-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/ico/apple-touch-icon-57-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/ico/apple-touch-icon-72-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/ico/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/Screenshot from 2015-01-18 13_15_29.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/images.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/logo100.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/logo2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/logo3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/mir.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/mylogo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/pattern.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/Nature03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/bird.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/design.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/design_res.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/desing2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/flower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/ima_design.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/logo.2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/logo.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/nature.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/travel-2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/travel-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/travel.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/work1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/work10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/work11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/work12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/work2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/work3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/work4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/work5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/work6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/work7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/work8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/portfolio/work9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/Emerald-Lake-–-Lake-Tahoe.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/bank.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/beautiful-world.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/beautiful.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/dover.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/e1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/graphic-design-banner.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/images.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/n6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/n7.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/na3.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/na5.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/sun1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/sun2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/slider/sund.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/team/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/team/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/team/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/team/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/testimonials/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/testimonials/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/testimonials/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/img/testimonials/mylogo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/bootstrap-hover-dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/bootstrap-hover-dropdown.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/jflickrfeed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/jflickrfeed.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/jquery-1.11.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/jquery-1.11.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/jquery.backstretch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/jquery.backstretch.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/jquery.magnific-popup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/jquery.magnific-popup.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/jquery.ui.map.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/jquery.ui.map.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/masonry.pkgd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/masonry.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/retina-1.1.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/retina-1.1.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/wow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/js/wow.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/sendmail.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/assets/subscribe.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/checkuser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/connection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/contact.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/dashboard.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/delete.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/includes/core.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/includes/footer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/includes/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/logout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/portfolio.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/registration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/update.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/view.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bs_msh/website_db.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/connection.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ich.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,95 +209,99 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bs_msh/index.php">
+        <entry file="file://$PROJECT_DIR$/website/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="29.833334" vertical-offset="716" max-vertical-offset="2880">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-3.7083333" vertical-offset="1711" max-vertical-offset="3855">
+              <caret line="120" column="33" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="update.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bs_msh/update.php">
+      <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2085">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1421598342000" expanded="true" signature="71:133" placeholder="SELECT * FRO..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="connection.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bs_msh/connection.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="105">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="420">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="checkuser.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bs_msh/checkuser.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1421610352000" expanded="true" signature="331:409" placeholder="SELECT * FRO..users_db..." />
-              </folding>
-            </state>
+          <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bs_msh/contact.php">
+        <entry file="file://$PROJECT_DIR$/website/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1125">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="1095">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="core.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bs_msh/includes/core.php">
+      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="645">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-8.125" vertical-offset="900" max-vertical-offset="4155">
+              <caret line="73" column="31" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/website/portfolio.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7620321" vertical-offset="1530" max-vertical-offset="2100">
+              <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/includes/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.375" vertical-offset="630" max-vertical-offset="1275">
+              <caret line="57" column="63" selection-start-line="57" selection-start-column="63" selection-end-line="57" selection-end-column="63" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bs_msh/includes/header.php">
+        <entry file="file://$PROJECT_DIR$/website/includes/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.875" vertical-offset="180" max-vertical-offset="900">
-              <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+            <state vertical-scroll-proportion="-5.5833335" vertical-offset="196" max-vertical-offset="840">
+              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add_user.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bs_msh/add_user.php">
+      <file leaf-file-name="core.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/includes/core.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="4.8333335" vertical-offset="116" max-vertical-offset="705">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="600">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1421615418000" expanded="true" signature="1645:1962" placeholder="INSERT INTO ..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="registration.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bs_msh/registration.php">
+      <file leaf-file-name="5.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/assets/img/slider/5.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index (copy).php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/website/index (copy).php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="46.875" vertical-offset="1125" max-vertical-offset="2115">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3000">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -137,6 +317,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/bs_msh/includes/header.php" />
+        <option value="$PROJECT_DIR$/website/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/website/contact.php" />
+        <option value="$PROJECT_DIR$/website/includes/footer.php" />
+        <option value="$PROJECT_DIR$/website/includes/header.php" />
+        <option value="$PROJECT_DIR$/website/index.php" />
+        <option value="$PROJECT_DIR$/website/about.php" />
+        <option value="$PROJECT_DIR$/website/portfolio.php" />
       </list>
     </option>
   </component>
@@ -191,38 +378,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ich" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ich" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bs_msh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ich" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ich" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bs_msh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -232,6 +387,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -249,14 +424,14 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32924962" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32924962" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -290,81 +465,111 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bs_msh/index.php">
+    <entry file="file://$PROJECT_DIR$/website/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="29.833334" vertical-offset="716" max-vertical-offset="2880">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1980" max-vertical-offset="14010">
+          <caret line="155" column="37" selection-start-line="155" selection-start-column="37" selection-end-line="155" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/assets/img/slider/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/assets/img/slider/2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/assets/img/slider/3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/assets/img/slider/4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/assets/img/slider/5.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/index (copy).php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3000">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bs_msh/update.php">
+    <entry file="file://$PROJECT_DIR$/website/includes/core.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2085">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1421598342000" expanded="true" signature="71:133" placeholder="SELECT * FRO..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bs_msh/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1125">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bs_msh/includes/core.php">
+    <entry file="file://$PROJECT_DIR$/website/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="1095">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bs_msh/includes/header.php">
+    <entry file="file://$PROJECT_DIR$/website/includes/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.875" vertical-offset="180" max-vertical-offset="900">
-          <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+        <state vertical-scroll-proportion="-9.375" vertical-offset="630" max-vertical-offset="1275">
+          <caret line="57" column="63" selection-start-line="57" selection-start-column="63" selection-end-line="57" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bs_msh/add_user.php">
+    <entry file="file://$PROJECT_DIR$/website/includes/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.8333335" vertical-offset="116" max-vertical-offset="705">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1421615418000" expanded="true" signature="1645:1962" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bs_msh/registration.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="46.875" vertical-offset="1125" max-vertical-offset="2115">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-5.5833335" vertical-offset="196" max-vertical-offset="840">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bs_msh/connection.php">
+    <entry file="file://$PROJECT_DIR$/website/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="626">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="-3.7083333" vertical-offset="1711" max-vertical-offset="3855">
+          <caret line="120" column="33" selection-start-line="120" selection-start-column="33" selection-end-line="120" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bs_msh/checkuser.php">
+    <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="626">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1421610352000" expanded="true" signature="331:409" placeholder="SELECT * FRO..users_db..." />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.125" vertical-offset="900" max-vertical-offset="4155">
+          <caret line="73" column="31" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/website/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7620321" vertical-offset="1530" max-vertical-offset="2100">
+          <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
